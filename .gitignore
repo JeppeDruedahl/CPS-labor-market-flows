@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+run.do
+run.log
+data/*.raw
+data/*smcl
+data/cps*.dta
+data/merg*.dta
+data/*.txt
+data/flows_67.dta
+data/flows.dta
